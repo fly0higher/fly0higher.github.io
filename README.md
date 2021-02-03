@@ -1,3 +1,3 @@
 # fly0higher.github.io
 
-hello!
+hello Granger, this is my blog!
